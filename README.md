@@ -4,7 +4,7 @@
 
 > **broker setting**
 >
-> `broker.eqmx.io:1883`
+> `broker.hivemq.com:1883`
 >
 > `<imei>/down`：发送消息Topic
 >
